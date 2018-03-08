@@ -151,7 +151,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
+  github           = "horgix"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
