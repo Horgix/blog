@@ -170,7 +170,7 @@ canonifyURLs = true
   linkedin_company = ""
   foursquare       = ""
   xing             = ""
-  slideshare       = ""
+  slideshare       = "horgix"
   # Social Networks
   facebook         = "example"
   googleplus       = ""
