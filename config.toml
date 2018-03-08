@@ -152,7 +152,7 @@ canonifyURLs = true
 [social]
   # Coding Communities
   github           = "horgix"
-  gitlab           = ""
+  gitlab           = "horgix"
   stackoverflow    = "" # User Number
   bitbucket        = ""
   jsfiddle         = ""
