@@ -172,9 +172,9 @@ canonifyURLs = true
   xing             = ""
   slideshare       = "horgix"
   # Social Networks
-  facebook         = "example"
+  facebook         = ""
   googleplus       = ""
-  reddit           = "example"
+  reddit           = ""
   quora            = ""
   youtube          = ""
   vimeo            = ""
@@ -182,9 +182,9 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  instagram        = ""
   tumblr           = ""
-  twitter          = "example"
+  twitter          = "horgx"
   skype            = ""
   snapchat         = ""
   pinterest        = "example"
