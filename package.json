@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "index": "hugo-algolia"
+  },
   "dependencies": {
     "hugo-algolia": "^1.2.13"
   }
