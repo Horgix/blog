@@ -7,3 +7,4 @@ services:
 script:
   - make withdocker
   - docker build -t horgix/hugo:latest .
+  - docker info
