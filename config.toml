@@ -129,8 +129,8 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
+  name = "Meetups"
+  url = "/meetups/"
   identifier = "fa fa-list"
   weight = 4
 
