@@ -1,6 +1,5 @@
 +++
 title = "About Horgix"
-date = ""
 +++
 
 Alexis "Horgix" Chotard is a french systems and software engineer currently
