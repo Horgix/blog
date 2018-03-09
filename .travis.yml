@@ -4,6 +4,15 @@ language: javascript
 services:
   - docker
 
+# From https://stackoverflow.com/a/24600210/2781800
+# Handle git submodules yourself
+git:
+    submodules: false
+# Use sed to replace the SSH URL with the public URL, then initialize submodules
+before_install:
+    - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+    - git submodule update --init --recursive
+
 script:
   - make withdocker
   - docker build -t horgix/hugo:latest .
