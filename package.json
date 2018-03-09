@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "index": "hugo-algolia"
+    "index": "hugo-algolia --config config.toml"
   },
   "dependencies": {
     "hugo-algolia": "^1.2.13"
