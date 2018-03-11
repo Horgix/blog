@@ -15,7 +15,7 @@ before_install:
 
 script:
   - make withdocker
-  - docker build -t horgix/hugo:latest .
+  - docker build -t horgix/blog:latest .
   - docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
   - docker push horgix/blog:latest;
   - 'curl -L -X PUT "https://marathon.horgix.eu/v2/apps/blog" -H "Content-type: application/json" -d @marathon_app.json -u "$MARATHON_USERNAME":"$MARATHON_PASSWORD";'
