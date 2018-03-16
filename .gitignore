@@ -1,2 +1,5 @@
 # Hugo default output directory
 public/
+
+# IntelliJ Idea and other JetBrains IDEs
+.idea/
