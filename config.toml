@@ -100,7 +100,7 @@ canonifyURLs = true
     gravatar  = "alexis.horgix.chotard+pro@gmail.com"
     src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
