@@ -58,6 +58,20 @@ find the videos below :)
 <br/>
 <br/>
 
+## Cloud Native Paris Meetup - Dynamic Fluentd configuration in an immutable infrastructure context
+
+- Conference: [**Cloud Native Paris
+  Meetup**](https://www.meetup.com/Cloud-Native-Computing-Paris/events/247273583/)
+- Attendees: 110 people
+
+{{<youtube IZRUaE9BzUU>}}
+<br />
+<br />
+
+{{<speakerdeck deefc835c7a64105a306a715d5d49e17>}}
+<br />
+<br />
+
 ## Modern infrastructure, automation, whales and stuff
 
 - Conference: GConfs at Epita, a french engineering school
