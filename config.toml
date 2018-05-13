@@ -197,3 +197,7 @@ canonifyURLs = true
   researchgate     = ""
   # Email
   email            = ""
+
+[algolia]
+  index = "content"
+  appID = "DJMDO67WWB"
