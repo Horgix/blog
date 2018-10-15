@@ -68,9 +68,7 @@ find the videos below :)
 <br />
 <br />
 
-{{<speakerdeck deefc835c7a64105a306a715d5d49e17>}}
-<br />
-<br />
+<!--speakerdeck deefc835c7a64105a306a715d5d49e17-->
 
 ## Modern infrastructure, automation, whales and stuff
 
