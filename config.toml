@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "My personal blog where I will rant about stuff <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Hello it's me"
+  about     = "Hello it's me! I'm a systems & software engineer who loves to automate everything he can :)"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
