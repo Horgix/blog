@@ -153,8 +153,8 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "horgix"
-  gitlab           = "horgix"
+  github           = "Horgix"
+  gitlab           = "Horgix"
   stackoverflow    = "2781800" # User Number
   bitbucket        = ""
   jsfiddle         = ""
@@ -172,7 +172,7 @@ canonifyURLs = true
   linkedin_company = ""
   foursquare       = ""
   xing             = ""
-  slideshare       = "horgix"
+  slideshare       = "Horgix"
   # Social Networks
   facebook         = ""
   googleplus       = ""
@@ -186,7 +186,7 @@ canonifyURLs = true
     qq             = "" # User ID Number
   instagram        = ""
   tumblr           = ""
-  twitter          = "horgix"
+  twitter          = "Horgix"
   skype            = ""
   snapchat         = ""
   pinterest        = ""
