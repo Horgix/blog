@@ -5,6 +5,7 @@ date = "2017-03-03"
 title = "How I integrated Algolia search into my Hugo blog - Part 1"
 description = "Indexing articles content into Algolia"
 categories = ["hugo", "algolia"]
+draft = true
 +++
 
 Found https://www.npmjs.com/package/hugo-algolia
