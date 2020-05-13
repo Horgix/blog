@@ -1,0 +1,126 @@
+# Public talks at conferences. Not internal presentations (XKE at Xebia, etc)
+# TODO : Format, conference attendees, talk attendees
+
+- title: "From Python to Kotlin"
+  event:
+    name: "TalkingKT 2019"
+    link: "https://talkingkt.fr/"
+  date: "2019/03/05"
+  video: null
+  tweets:
+    - "https://twitter.com/PubSapientEng/status/1235584623805071362"
+  slides:
+    slideshare: "https://www.slideshare.net/Horgix/from-python-to-kotlin-talkingkt-2019"
+    speakerdeck: "https://speakerdeck.com/horgix/from-python-to-kotlin-talkingkt-2019"
+
+- title: "Cloud Native Apps"
+  event:
+    name: "XebiCon'19"
+    link: "https://xebicon.fr/"
+  date: "2019/11/28"
+  video: null
+  slides:
+    slideshare: null
+    speakerdeck: null
+
+- title: "XebiKart Infrastructure : de nos laptops à Kubernetes dans le Cloud"
+  event:
+    name: "XebiCon'19"
+    link: "https://xebicon.fr/"
+  date: "2019/11/28"
+  video: null
+  tweets:
+    - "https://twitter.com/xebiconfr/status/1204751442877267969"
+  slides:
+    slideshare: null
+    speakerdeck: null
+
+- title: "Docker est mort, vive Docker"
+  event:
+    name: "XebiCon'19"
+    link: "https://xebicon.fr/"
+  date: "2019/11/28"
+  video: "https://www.youtube.com/watch?v=tH94D4Iaxpk"
+  slides:
+    slideshare: null
+    speakerdeck: null
+
+- title: "Kubernetes in Docker: next level inception"
+  event:
+    name: "Paris Container Day 2019"
+    link: "https://paris-container-day.fr/"
+  date: "2019/06/04"
+  video: "https://www.youtube.com/watch?v=rJlBQE-ZXj4"
+  slides:
+    slideshare: null
+    speakerdeck: null
+
+- title: "Cloud Native Cloud"
+  event:
+    name: "Le Mois du Cloud"
+    link: "https://le-mois-du-cloud.xebia.fr/"
+  date: "2019/02/19"
+  video: "https://www.youtube.com/watch?v=7bqTBOhT9pg"
+  slides:
+    slideshare: null
+    speakerdeck: null
+
+- title: "Modern infrastructure"
+  event:
+    name: "XebiCon'18"
+    link: "https://2018.xebicon.fr/"
+  date: "2018/11/20"
+  video: "https://www.youtube.com/watch?v=kKxlHnR87o4&t=2448s"
+  slides:
+    slideshare: "https://www.slideshare.net/Horgix/modern-infrastructure-xebicon18"
+    speakerdeck: "https://speakerdeck.com/horgix/modern-infrastructure-xebicon-18"
+
+- title: "Buzzwords at the Cloud Native era"
+  event:
+    name: "Paris Container Day 2018"
+    link: "https://2018.paris-container-day.fr/"
+  date: "2018/06/26"
+  video: "https://www.youtube.com/watch?v=66yfzHEHGU8"
+  slides:
+    slideshare: "https://www.slideshare.net/Horgix/buzzwords-at-the-cloud-native-era-paris-container-day-2018"
+    speakerdeck: "https://speakerdeck.com/horgix/buzzwords-at-the-cloud-native-era-paris-container-day-2018"
+      
+- title: "Fluentd and dynamic configuration with immutable infrastructure"
+  event:
+    name: "Cloud Native Computing Paris Meetup"
+    link: "https://www.meetup.com/Cloud-Native-Computing-Paris/"
+  date: "2018/02/15"
+  video: "https://www.youtube.com/watch?v=IZRUaE9BzUU"
+  slides:
+    slideshare: "https://www.slideshare.net/Horgix/cncf-paris-fluentd-88098846"
+    speakerdeck: "https://speakerdeck.com/horgix/fluentd-cncf-paris"
+
+- title: "Un Ops parmi les Devs : retour des deux côtés"
+  event:
+    name: "DevOps REX 2017"
+    link: "http://www.devopsrex.fr/revivez-devops-rex-2017/"
+  date: "2017/10/02"
+  video: "https://www.youtube.com/watch?v=6KnKYHUjIjg"
+  slides:
+    slideshare: null
+    speakerdeck: null
+
+- title: "Comment j’ai automatisé la gestion des incidents de Photobox en 13h"
+  event:
+    name: "XebiCon'17"
+    link: "https://2017.xebicon.fr/"
+  date: "2017/11/30"
+  video: "https://www.youtube.com/watch?v=nlEbgHKy6PY"
+  slides:
+    slideshare: null
+    speakerdeck: null
+
+- title: "Modern infrastructure, automation, whales and stuff"
+  event:
+    name: "GConfs conference @ Epita"
+    link: "https://gconfs.fr/"
+  date: "??"
+  video: "https://www.youtube.com/watch?v=iIBqoU-LdQQ"
+  slides:
+    slideshare: null
+    speakerdeck: null
